@@ -1,0 +1,24 @@
+{
+  "name": "transcode-video",
+  "version": "1.0.0",
+  "description": "transcode video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfenelsoftllc/serverless-firststeps-nodejs.git"
+  },
+  "keywords": [
+    "transcode",
+    "video",
+    "converter"
+  ],
+  "author": "hfenelsoftllc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfenelsoftllc/serverless-firststeps-nodejs/issues"
+  },
+  "homepage": "https://github.com/hfenelsoftllc/serverless-firststeps-nodejs#readme"
+}
